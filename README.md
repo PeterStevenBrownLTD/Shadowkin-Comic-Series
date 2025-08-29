@@ -10,7 +10,7 @@ Logo: The logo features the word "Shadowkin" in a futuristic, all-caps font with
 
 Color Palette: The primary colors are Midnight Black and Electric Gold, representing the series' urban feel and aspirational themes of justice.
 
-Brand Guide: For a full breakdown of color codes, typography, and logo usage rules, please refer to the [link to your brand guide PDF here].
+Brand Guide: For a full breakdown of color codes, typography, and logo usage rules, please refer to the [https://github.com/PeterStevenBrownLTD/Shadowkin-Comic-Series/blob/main/BRAND_GUIDE].
 
 The Team
 Creator/Writer/Artist: MR Peter S Brown
